@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Štěpán Dragoun</h1>
 <h3 align="center">A student</h3>
 
-![AlertInfatuatedAlpineroadguidetigerbeetle-max-1mb](https://user-images.githubusercontent.com/113664293/206138391-e305fbc3-ba11-4bcd-a59f-6b1b368405f2.gif)
 
 ![giphy](https://user-images.githubusercontent.com/113664293/206137537-db95d293-77a6-4eae-82ca-fb9c2ac67f77.gif)
 <h3 align="left">Connect with me:</h3>
