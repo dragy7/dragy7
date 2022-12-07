@@ -2,7 +2,7 @@
 <h3 align="center">A student</h3>
 
 
-![giphy](https://user-images.githubusercontent.com/113664293/206137537-db95d293-77a6-4eae-82ca-fb9c2ac67f77.gif)
+                      ![giphy](https://user-images.githubusercontent.com/113664293/206137537-db95d293-77a6-4eae-82ca-fb9c2ac67f77.gif)
 <h3 align="left">Connect with me:</h3>
 
 
